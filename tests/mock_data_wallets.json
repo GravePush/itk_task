@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+        "balance": 1000
+    },
+    {
+        "id": 2,
+        "uuid": "9c858901-8a57-4791-81fe-4c455b099bc9",
+        "balance": 1000
+    },
+    {
+        "id": 3,
+        "uuid": "16fd2706-8baf-433b-82eb-8c7fada847da",
+        "balance": 1000
+    },
+    {
+        "id": 4,
+        "uuid": "886313e1-3b8a-5372-9b90-0c9aee199e5d",
+        "balance": 200
+    },
+    {
+        "id": 5,
+        "uuid": "6fa459ea-ee8a-3ca4-894e-db77e160355e",
+        "balance": 750
+    }
+]
